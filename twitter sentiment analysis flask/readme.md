@@ -22,15 +22,10 @@
 <li>python -m textblob.download_corpora</li>
 <li>pip install Flask-Cors</li>
 
-<h3>How to run <h3>
-
-Clone the repository and install all the required packages<br/>
 Edit the **sentiment.py** add twitter credential keys <br/>
 
 Open terminal and go to flask-server directory start the server<br/>
 
 <code>python sentiment.py</code><br/>
 
-Now open the index.html and start searching
-
-It works!!!!
+then open index.html in browser
