@@ -31,3 +31,5 @@ Open terminal and go to flask-server directory start the server<br/>
 <code>python sentiment.py</code><br/>
 
 then open index.html in browser
+
+![Screenshot][Screenshot 2021-07-21 232729.png]
