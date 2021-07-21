@@ -32,4 +32,4 @@ Open terminal and go to flask-server directory start the server<br/>
 
 then open index.html in browser
 
-![Screenshot](Screenshot 2021-07-21 232729.png)
+![Screenshot](https://github.com/YesnotBot/twitter-sentiment-analysis-flask/blob/main/Screenshot%202021-07-21%20232729.png)
